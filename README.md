@@ -14,6 +14,7 @@
     - [SMALL CAPS](#small-caps)
     - [BLUE CHIPS](#blue-chips)
     - [IPO](#ipo)
+    - [DIVIDEND YIELD](#dividend-yield)
     - [PREÇO MÉDIO](#preço-médio)
     - [PREÇO TETO](#preço-teto)
     - [IMPOSTO DE RENDA RETIDO NA FONTE](#imposto-de-renda-retido-na-fonte)
@@ -30,6 +31,9 @@
     - [VALUATION](#valuation)
     - [TRAVAS DE ALTA](#travas-de-alta)
     - [WACC](#wacc)
+    - [TJLP](#tjlp)
+    - [P/VPA](#pvpa)
+    - [FLUXO DE CAIXA](#fluxo-de-caixa)
     - [FLUXO DE CAIXA DESCONTADO](#fluxo-de-caixa-descontado)
     - [FINANCIAMENTO DE OPÇÕES](#financiamento-de-opções)
     - [DOLLAR COST AVERAGING](#dollar-cost-averaging)
@@ -95,6 +99,64 @@
 ### BLUE CHIPS
 
 ### IPO
+
+### DIVIDEND YIELD
+
+    ### O que é Dividend Yield?
+
+    Dividend Yield é uma métrica financeira que indica o retorno de dividendos de uma ação em relação ao seu preço de mercado. Ele é expresso como uma porcentagem e mostra quanto uma empresa paga em dividendos anuais em relação ao preço atual de suas ações.
+
+    #### Fórmula do Dividend Yield:
+
+    \[ \text{Dividend Yield} = \left( \frac{\text{Dividendo Anual por Ação}}{\text{Preço da Ação}} \right) \times 100 \]
+
+    ### Como Calcular o Dividend Yield
+
+   1. **Determine o Dividendo Anual por Ação:**
+   - Isso é a soma dos dividendos pagos por ação ao longo do ano. Pode incluir dividendos regulares e especiais.
+
+   2. **Determine o Preço da Ação:**
+   - O preço atual de mercado da ação.
+
+   3. **Aplique a Fórmula:**
+
+   Por exemplo, se uma empresa paga R$ 5 em dividendos anuais por ação e o preço atual da ação é R$ 100:
+
+   \[ \text{Dividend Yield} = \left( \frac{5}{100} \right) \times 100 = 5\% \]
+
+    ### Importância do Dividend Yield
+
+   1. **Avaliação de Retorno:**
+   - O Dividend Yield ajuda os investidores a avaliar o retorno sobre investimento que eles podem esperar na forma de dividendos.
+
+   1. **Comparação de Investimentos:**
+   - Permite a comparação entre diferentes ações e setores, ajudando a identificar aquelas que oferecem melhores retornos de dividendos.
+
+   1. **Indicador de Estabilidade:**
+   - Empresas que consistentemente pagam altos dividendos podem ser vistas como mais estáveis e maduras, embora um Dividend Yield muito alto possa indicar risco se os dividendos não forem sustentáveis.
+
+    ### Considerações Adicionais
+
+   - **Sustentabilidade dos Dividendos:**
+  - É importante verificar se os dividendos são sustentáveis a longo prazo. Um Dividend Yield alto pode ser atraente, mas se a empresa não conseguir manter esses pagamentos, isso pode ser um sinal de alerta.
+
+  - **Crescimento vs. Rendimento:**
+  - Empresas em crescimento geralmente pagam menos dividendos, reinvestindo os lucros no negócio. Já empresas maduras tendem a pagar mais dividendos.
+
+  - **Impacto do Preço das Ações:**
+  - O Dividend Yield pode aumentar se o preço da ação cair, mesmo que o valor do dividendo não mude. Portanto, um alto Dividend Yield pode não ser necessariamente positivo se for resultado de uma queda significativa no preço da ação.
+
+    ### Exemplo Prático
+
+    Suponha que a empresa XYZ pague um dividendo anual de R$ 3 por ação e o preço atual da ação seja R$ 60:
+
+    \[ \text{Dividend Yield} = \left( \frac{3}{60} \right) \times 100 = 5\% \]
+
+    Isso significa que os investidores receberiam um retorno de 5% ao ano sobre o preço atual da ação na forma de dividendos.
+
+    ### Conclusão
+
+    O Dividend Yield é uma métrica útil para avaliar o retorno de dividendos de uma ação em relação ao seu preço de mercado. Ele ajuda os investidores a tomar decisões informadas sobre onde colocar seu dinheiro, especialmente se estiverem focados em gerar renda passiva através de dividendos.
 
 ### PREÇO MÉDIO
 
@@ -171,6 +233,60 @@
 ### TRAVAS DE ALTA
 
 ### WACC
+
+### TJLP
+
+### P/VPA
+
+    P/VPA, ou Preço sobre Valor Patrimonial por Ação, é uma métrica financeira usada para avaliar se uma ação está subvalorizada ou supervalorizada. Ele é calculado dividindo o preço atual da ação pelo valor patrimonial por ação da empresa.
+
+    **Fórmula do P/VPA:**
+
+    \[ P/VPA = \frac{\text{Preço da Ação}}{\text{Valor Patrimonial por Ação}} \]
+
+    ### Como interpretar o P/VPA:
+
+   1. **P/VPA < 1:**
+   - A ação pode estar subvalorizada, indicando que o mercado está precificando a empresa abaixo do valor de seus ativos líquidos.
+   - Pode ser um sinal de oportunidade de compra, mas também pode indicar problemas financeiros na empresa.
+
+   1. **P/VPA = 1:**
+   - A ação está sendo negociada exatamente pelo valor de seus ativos líquidos.
+   - Normalmente, é considerado um preço justo.
+
+   1. **P/VPA > 1:**
+   - A ação pode estar supervalorizada, indicando que o mercado está disposto a pagar mais do que o valor de seus ativos líquidos.
+   - Pode ser justificado por expectativas de crescimento futuro ou outras vantagens competitivas.
+
+    ### Considerações adicionais:
+
+   - **Setores diferentes:** Empresas de setores diferentes podem ter P/VPA médios diferentes. Por exemplo, empresas de tecnologia frequentemente têm P/VPA mais altos devido às expectativas de crescimento elevado.
+
+   - **Qualidade dos ativos:** O valor patrimonial reflete os ativos líquidos da empresa, mas a qualidade desses ativos pode variar. Ativos tangíveis (como imóveis) são diferentes de ativos intangíveis (como patentes).
+
+   - **Comparação com pares:** É útil comparar o P/VPA de uma empresa com o de outras empresas do mesmo setor para avaliar se a empresa está subvalorizada ou supervalorizada.
+
+   - **Tendências históricas:** Analisar a tendência histórica do P/VPA de uma empresa pode fornecer insights sobre como o mercado tem avaliado a empresa ao longo do tempo.
+
+    ### Exemplo prático:
+
+    Se uma empresa tem um preço de ação de R$ 50 e um valor patrimonial por ação de R$ 40, então:
+
+    \[ P/VPA = \frac{50}{40} = 1,25 \]
+
+    Isso significa que a ação está sendo negociada a 1,25 vezes o valor de seus ativos líquidos.
+
+    ### Importância do P/VPA no investimento:
+
+    - **Identificação de oportunidades:** Ajuda investidores a identificar ações potencialmente subvalorizadas.
+    - **Avaliação de risco:** Um P/VPA baixo pode indicar maior risco, exigindo uma análise mais aprofundada.
+    - **Tomada de decisão:** É uma ferramenta útil na tomada de decisão de compra ou venda de ações.
+
+    O P/VPA é apenas uma das várias métricas que os investidores usam para avaliar ações. É importante combiná-lo com outras análises financeiras e considerar o contexto geral da empresa e do mercado.
+
+    Se precisar de mais informações sobre métricas financeiras ou qualquer outro tema relacionado a investimentos, sinta-se à vontade para perguntar!
+
+### FLUXO DE CAIXA
 
 ### FLUXO DE CAIXA DESCONTADO
 
