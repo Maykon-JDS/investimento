@@ -9,7 +9,7 @@
   - [OS CINCO PRINCÍPIOS BÁSICOS DO INVESTIDOR CONSCIENTE](#os-cinco-princípios-básicos-do-investidor-consciente)
     - [INVESTIR REGULARMENTE, INDEPENDENTEMENTE DAS CONDIÇÕES DE MERCADO](#investir-regularmente-independentemente-das-condições-de-mercado)
   - [EXPLICANDO TERMOS](#explicando-termos)
-    - [**P/L**](#pl)
+    - [P/L](#pl)
     - [LPA](#lpa)
     - [SMALL CAPS](#small-caps)
     - [BLUE CHIPS](#blue-chips)
